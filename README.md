@@ -1,5 +1,10 @@
 Exercise Tracker microservice for tracking users and their exercises. Users can register, log exercises, and fetch exercise history with optional filters such as date range and result limit.
 
+![Screenshot (74)](https://github.com/user-attachments/assets/db06e83a-7075-4b23-8dfb-122cf23090dd)
+![Screenshot (75)](https://github.com/user-attachments/assets/c02d15a8-b20e-4636-8acc-8c61ca5a1fa7)
+![Screenshot (76)](https://github.com/user-attachments/assets/57081702-585f-4673-b527-645b92d28885)
+![Screenshot (77)](https://github.com/user-attachments/assets/49413be3-4e64-459d-8eb9-4817499d90a4)
+
 # Exercise Tracker Microservice
 
 This project is part of the [freeCodeCamp Back-End Development and APIs Certification](https://www.freecodecamp.org/learn). It is a full-stack JavaScript application built with Node.js, Express, and MongoDB.
