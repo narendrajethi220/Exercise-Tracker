@@ -1,4 +1,4 @@
-NodeJS(ExpressJS) microservice for tracking users and their exercises. Users can register, log exercises, and fetch exercise history with optional filters such as date range and result limit.
+Exercise Tracker microservice for tracking users and their exercises. Users can register, log exercises, and fetch exercise history with optional filters such as date range and result limit.
 
 # Exercise Tracker Microservice
 
